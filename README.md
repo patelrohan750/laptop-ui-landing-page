@@ -1,2 +1,2 @@
 # laptop-ui-landing-page
-full responsive
+full responsive laptop-ui-landing-page
